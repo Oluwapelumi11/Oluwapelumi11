@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Computers
 
 
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python, django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...+2349045127177
 
