@@ -1,13 +1,24 @@
-- 👋 Hi, I’m @Oluwapelumi11
-- 👀 I’m interested in ... Computers
+### Hi there! 👋 I'm Sunday Oluwapelumi
 
+👨‍💻 Full Stack Developer | Machine Learning Enthusiast | System Administrator
 
-- 🌱 I’m currently learning ... python, django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...+2349045127177
+🌐 Passionate about creating web applications and harnessing data for intelligent solutions.
 
-<!---
-Oluwapelumi11/Oluwapelumi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->I love computers and I want to make a change in the world
+🚀 Here's what I bring to the table:
+- Front-end: Angular, JavaScript, Tailwind CSS
+- Back-end: Flask, Django, FastAPI, RESTful APIs
+- Data Science & ML: Python, SQLAlchemy, Machine Learning
+- System Administration: Batch, Bash, Python scripting
+- Database: SQL, API testing, and more!
+
+🌟 I've contributed to various open-source projects and developed projects that solve real-world problems.
+
+📫 Let's connect! Feel free to reach out for collaborations or exciting opportunities.
+
+🔗 Connect with me:
+- [Linkedin](https://www.linkedin.com/in/sunday-oluwapelumi-94493a217)
+- [Twitter](https://twitter.com/oluwapelumi98393)
+- [Portfolio Website](https://www.yourwebsite.com)
+
+🌐 Check out some of my notable projects below 👇
 
