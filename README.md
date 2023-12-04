@@ -16,9 +16,9 @@
 📫 Let's connect! Feel free to reach out for collaborations or exciting opportunities.
 
 🔗 Connect with me:
-- [Linkedin](https://www.linkedin.com/in/sunday-oluwapelumi-94493a217)
+- [Linkedin](https://www.linkedin.com/in/sunday-oluwapelumi)
 - [Twitter](https://twitter.com/oluwapelum98393)
-- [Portfolio Website](https://www.yourwebsite.com)
+- [Portfolio Website](https://www.oluwapelumi.dev)
 
 🌐 Check out some of my notable projects below 👇
 
