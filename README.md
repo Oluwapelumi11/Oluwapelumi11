@@ -17,7 +17,7 @@
 🔗 Connect with me:
 - [Linkedin](https://www.linkedin.com/in/sunday-oluwapelumi)
 - [Twitter](https://twitter.com/oluwapelum98393)
-- [Portfolio Website](https://sunday-oluwapelumi.vercel.app)
+- [Portfolio Website](https://www.oluwapelumi.dev)
 
 🌐 Check out some of my notable projects below 👇
 
